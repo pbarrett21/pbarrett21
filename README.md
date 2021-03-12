@@ -1,4 +1,10 @@
-### Hi there 👋
+## Hi there 👋
+
+### I'm Paul! I am a software engineer based in Dallas, Texas 🤠
+
+I've been working on full stack projects professionally for 2 years now. The technologies I use daily are Angular with Typescript, Spring Boot, and Oracle SQL database. I really enjoy getting to work every level of the application and creating new features using vertical slice architecture!
+
+I'm currently exploring and experimenting with ReactJs and NodeJs during my free time and look forward to creating many new personal projects in the future
 
 <!--
 **pbarrett21/pbarrett21** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
