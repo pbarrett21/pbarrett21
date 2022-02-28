@@ -2,7 +2,7 @@
 
 ### I'm Paul! I am a software engineer based in Dallas, Texas 🤠
 
-I've been working on full stack projects professionally for 2 years now. The technologies I use daily are Angular with Typescript, Spring Boot, and Oracle SQL database. I really enjoy getting to work every level of the application and creating new features using vertical slice architecture!
+I've been working on full stack projects professionally for 3 years now. The technologies I use daily are Angular with Typescript, Spring Boot, and Oracle SQL database. I really enjoy getting to work every level of the application and creating new features using vertical slice architecture!
 
 I enjoy experimenting with new projects and technologies during my free time and look forward to creating many new projects in the future
 
