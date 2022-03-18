@@ -2,11 +2,11 @@
 
 ### I'm Paul! I am a software engineer based in Dallas, Texas 🤠
 
-I've been working on full stack projects professionally for 3 years now. The technologies I use daily are Angular with Typescript, Spring Boot, and Oracle SQL database. I really enjoy getting to work every level of the application and creating new features using vertical slice architecture!
+I've been working on full stack projects professionally for **3 years** now. I have a passion for creating modern applications with an emphasis on front-end or full-stack development. I am particularly interested in all things **Javascript/Typescript** and greatly enjoy getting to work with **React** and **Angular**. 
 
 I enjoy experimenting with new projects and technologies during my free time and look forward to creating many new projects in the future
 
-🔭 I’m currently working on: LouTrails, an informational website to find different trails for hiking, biking, or more - in Louisville!
+Check out my most recent project: ***[2048Clone](https://2048gameclone.netlify.app/)***!
 
 <!--
 **pbarrett21/pbarrett21** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
