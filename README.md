@@ -2,7 +2,7 @@
 
 ### I'm Paul! I am a software engineer based in Louisville, Kentucky 🐎
 
-I've been working on full stack projects professionally for **5 years** now. I have a passion for creating modern applications with an emphasis on front-end or full-stack development. I am particularly interested in all things **Javascript/Typescript** and greatly enjoy getting to work with **React** and **Angular**. 
+I've been working on full stack projects professionally for over **6 years** now. I have a passion for creating modern applications with an emphasis on front-end or full-stack development. I am particularly interested in all things **Javascript/Typescript** and greatly enjoy getting to work with **React** and **Angular**. 
 
 I enjoy experimenting with new projects and technologies during my free time and look forward to creating many new projects in the future
 
